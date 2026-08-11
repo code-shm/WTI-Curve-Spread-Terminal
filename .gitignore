@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Next.js / Node
+web/node_modules/
+web/.next/
+web/out/
+web/.vercel/
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db

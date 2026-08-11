@@ -1,0 +1,16 @@
+{
+  "run_at": "2026-08-11T12:01:22.188528+00:00",
+  "sources": {
+    "yfinance_continuous_wti": {
+      "ok": true,
+      "rows": 2513
+    },
+    "eia_curve": {
+      "ok": false,
+      "reason": "missing_api_key"
+    }
+  },
+  "warnings": [
+    "EIA_API_KEY not set. Get a free key at https://www.eia.gov/opendata/register.php and put it in .env"
+  ]
+}
