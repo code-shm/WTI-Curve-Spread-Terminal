@@ -1,17 +1,17 @@
 {
   "in_sample": {
-    "sharpe": -0.115,
-    "total_pnl": -27877.0,
+    "sharpe": -0.118,
+    "total_pnl": -28487.0,
     "max_drawdown": -91872.0,
-    "annual_turnover": 10.13,
+    "annual_turnover": 10.12,
     "n_trades": 34,
     "hit_rate": 0.6765,
     "avg_win": 3690.96,
     "avg_loss": -9043.27
   },
   "out_of_sample": {
-    "sharpe": 0.034,
-    "total_pnl": 2685.01,
+    "sharpe": 0.041,
+    "total_pnl": 3295.0,
     "max_drawdown": -53966.0,
     "annual_turnover": 8.55,
     "n_trades": 13,
@@ -9844,6 +9844,10 @@
     },
     {
       "date": "2026-08-20",
+      "pnl": -25191.99
+    },
+    {
+      "date": "2026-08-21",
       "pnl": -25191.99
     }
   ],
