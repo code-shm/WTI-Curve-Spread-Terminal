@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-08-26T07:24:08.571907+00:00",
+  "run_at": "2026-08-27T17:45:12.191783+00:00",
   "sources": {
     "yfinance_continuous_wti": {
       "ok": true,
