@@ -1,17 +1,17 @@
 {
   "in_sample": {
-    "sharpe": -0.115,
-    "total_pnl": -27747.0,
+    "sharpe": -0.113,
+    "total_pnl": -27397.0,
     "max_drawdown": -91872.0,
-    "annual_turnover": 10.12,
+    "annual_turnover": 10.13,
     "n_trades": 34,
     "hit_rate": 0.6765,
     "avg_win": 3690.96,
     "avg_loss": -9043.27
   },
   "out_of_sample": {
-    "sharpe": 0.032,
-    "total_pnl": 2555.0,
+    "sharpe": 0.028,
+    "total_pnl": 2205.01,
     "max_drawdown": -53966.0,
     "annual_turnover": 8.55,
     "n_trades": 13,
@@ -30,14 +30,6 @@
     "avg_loss": -7489.89
   },
   "equity_curve": [
-    {
-      "date": "2016-11-23",
-      "pnl": 0.0
-    },
-    {
-      "date": "2016-11-25",
-      "pnl": 0.0
-    },
     {
       "date": "2016-11-28",
       "pnl": 0.0
@@ -9848,6 +9840,10 @@
     },
     {
       "date": "2026-08-28",
+      "pnl": -25191.99
+    },
+    {
+      "date": "2026-08-31",
       "pnl": -25191.99
     }
   ],
