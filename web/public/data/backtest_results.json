@@ -10,8 +10,8 @@
     "avg_loss": -9568.73
   },
   "out_of_sample": {
-    "sharpe": -0.17,
-    "total_pnl": -13695.0,
+    "sharpe": -0.112,
+    "total_pnl": -9104.99,
     "max_drawdown": -53966.0,
     "annual_turnover": 8.55,
     "n_trades": 12,
@@ -20,10 +20,10 @@
     "avg_loss": -4661.0
   },
   "full_sample": {
-    "sharpe": -0.104,
-    "total_pnl": -33765.0,
+    "sharpe": -0.09,
+    "total_pnl": -29174.99,
     "max_drawdown": -91872.0,
-    "annual_turnover": 9.76,
+    "annual_turnover": 9.75,
     "n_trades": 47,
     "hit_rate": 0.6383,
     "avg_win": 3664.0,
@@ -9844,7 +9844,11 @@
     },
     {
       "date": "2026-09-17",
-      "pnl": -33765.0
+      "pnl": -35015.0
+    },
+    {
+      "date": "2026-09-18",
+      "pnl": -29174.99
     }
   ],
   "params": {
