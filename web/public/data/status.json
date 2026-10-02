@@ -1,9 +1,9 @@
 {
-  "run_at": "2026-10-01T13:40:10.656506+00:00",
+  "run_at": "2026-10-02T12:57:23.654239+00:00",
   "sources": {
     "yfinance_continuous_wti": {
       "ok": true,
-      "rows": 2513
+      "rows": 2514
     },
     "eia_curve": {
       "ok": false,
