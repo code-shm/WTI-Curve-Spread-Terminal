@@ -3,7 +3,7 @@
     "sharpe": -0.084,
     "total_pnl": -20364.0,
     "max_drawdown": -91872.0,
-    "annual_turnover": 9.98,
+    "annual_turnover": 9.97,
     "n_trades": 34,
     "hit_rate": 0.6765,
     "avg_win": 3690.96,
@@ -9844,6 +9844,10 @@
     },
     {
       "date": "2026-10-08",
+      "pnl": -22851.99
+    },
+    {
+      "date": "2026-10-09",
       "pnl": -22851.99
     }
   ],
