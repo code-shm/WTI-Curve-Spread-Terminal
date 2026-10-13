@@ -13,7 +13,7 @@
     "sharpe": -0.03,
     "total_pnl": -2487.99,
     "max_drawdown": -53966.0,
-    "annual_turnover": 8.89,
+    "annual_turnover": 8.55,
     "n_trades": 13,
     "hit_rate": 0.5385,
     "avg_win": 3639.71,
@@ -30,10 +30,6 @@
     "avg_loss": -7836.59
   },
   "equity_curve": [
-    {
-      "date": "2017-01-09",
-      "pnl": 0.0
-    },
     {
       "date": "2017-01-10",
       "pnl": 0.0
@@ -9848,6 +9844,10 @@
     },
     {
       "date": "2026-10-12",
+      "pnl": -22851.99
+    },
+    {
+      "date": "2026-10-13",
       "pnl": -22851.99
     }
   ],
