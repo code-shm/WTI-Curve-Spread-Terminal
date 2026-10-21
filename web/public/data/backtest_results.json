@@ -10,8 +10,8 @@
     "avg_loss": -9568.73
   },
   "out_of_sample": {
-    "sharpe": -0.037,
-    "total_pnl": -2997.99,
+    "sharpe": -0.005,
+    "total_pnl": -397.99,
     "max_drawdown": -53966.0,
     "annual_turnover": 8.89,
     "n_trades": 13,
@@ -20,8 +20,8 @@
     "avg_loss": -4661.0
   },
   "full_sample": {
-    "sharpe": -0.069,
-    "total_pnl": -22494.99,
+    "sharpe": -0.061,
+    "total_pnl": -19894.99,
     "max_drawdown": -91872.0,
     "annual_turnover": 9.75,
     "n_trades": 47,
@@ -30,10 +30,6 @@
     "avg_loss": -7836.59
   },
   "equity_curve": [
-    {
-      "date": "2017-01-18",
-      "pnl": 0.0
-    },
     {
       "date": "2017-01-19",
       "pnl": 0.0
@@ -9848,7 +9844,11 @@
     },
     {
       "date": "2026-10-20",
-      "pnl": -22494.99
+      "pnl": -23254.99
+    },
+    {
+      "date": "2026-10-21",
+      "pnl": -19894.99
     }
   ],
   "params": {
