@@ -1,7 +1,7 @@
 {
   "in_sample": {
-    "sharpe": -0.085,
-    "total_pnl": -20657.01,
+    "sharpe": -0.092,
+    "total_pnl": -22217.0,
     "max_drawdown": -91872.0,
     "annual_turnover": 10.12,
     "n_trades": 34,
@@ -10,8 +10,8 @@
     "avg_loss": -9568.73
   },
   "out_of_sample": {
-    "sharpe": -0.016,
-    "total_pnl": -1307.98,
+    "sharpe": -0.037,
+    "total_pnl": -3027.99,
     "max_drawdown": -53966.0,
     "annual_turnover": 8.89,
     "n_trades": 13,
@@ -20,8 +20,8 @@
     "avg_loss": -4661.0
   },
   "full_sample": {
-    "sharpe": -0.067,
-    "total_pnl": -21964.99,
+    "sharpe": -0.077,
+    "total_pnl": -25244.99,
     "max_drawdown": -91872.0,
     "annual_turnover": 9.75,
     "n_trades": 47,
@@ -9848,7 +9848,11 @@
     },
     {
       "date": "2026-10-29",
-      "pnl": -21964.99
+      "pnl": -23464.99
+    },
+    {
+      "date": "2026-10-30",
+      "pnl": -25244.99
     }
   ],
   "params": {
